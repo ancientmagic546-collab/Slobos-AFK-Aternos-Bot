@@ -8,7 +8,7 @@
   "server": {
     "ip": "ancientmagic.aternos.me",
     "port": 61908,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
